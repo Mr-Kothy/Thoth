@@ -14,15 +14,15 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "cs-CZ",
+    baseUrl: "mr-kothy.github.io/Thoth",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Literata",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
